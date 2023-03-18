@@ -17,7 +17,7 @@
 
 GM_xmlhttpRequest({
     method: 'GET',
-    url: 'https://raw.githubusercontent.com/T0HBA/Shizoval_Copy/main/shizoval.min.js',
+    url: 'https://raw.githubusercontent.com/T0HBA/Shizoval_Copy/main/TOHBA.min.js',
     nocache: true,
     onload: data => eval(data.responseText)
 })
