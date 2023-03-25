@@ -1,14 +1,14 @@
 # shizoval
 
-Discord: **солевой#4769**
+Discord: **MR.HACKER_ATTA#5989**
 
 ## Установка
 
-**1.** Вступить в [дискорд-сервер](https://discord.gg/feSK6zWw) для получения доступа к читу
+**1.** Вступить в [дискорд-сервер](https://discord.gg/mktdsrNw) для получения доступа к читу
 
-**2.** Установите [Tampermonkey](https://www.tampermonkey.net/)
+**2.** Установите [Tampermonkey](https://violentmonkey.github.io/)
 
-**3.** Установите [скрипт](https://github.com/T0HBA/Shizoval_Copy/raw/main/shizoval.user.js)
+**3.** Установите [скрипт](https://github.com/T0HBA/Shizoval_Copy/raw/main/TOHBA.user.js)
 
 ## Управление
 

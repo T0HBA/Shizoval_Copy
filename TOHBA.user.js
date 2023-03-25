@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Hi_Hi_CycIone
-// @version      1.0.1
+// @version      1.0.2
 // @description  Free game cheat for Tanki Online.
 // @author       TOHBA
 // @match        https://*.tankionline.com/*
